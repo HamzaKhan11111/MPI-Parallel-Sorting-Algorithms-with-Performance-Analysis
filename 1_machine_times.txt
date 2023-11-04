@@ -1,0 +1,9 @@
+Merge Sort of size 2048	0.0047657
+Merge Sort of size 8192	0.0784358
+Merge Sort of size 32768	0.0799314
+Merge Sort of size 131072	0.150353
+Quick Sort of size 2048	0.00617859
+Quick Sort of size 8192	0.0656558
+Quick Sort of size 32768	0.00899694
+Quick Sort of size 131072	0.112834
+
